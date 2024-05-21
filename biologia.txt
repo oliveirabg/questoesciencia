@@ -7,3 +7,7 @@ z) Item z
 x) Item x
 v) Item v
 u) Item u
+Questão 3:
+f) Item f
+g) Item g
+h) Item h
